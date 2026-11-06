@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {"item":"minecraft:chest_minecart"},
+    {"item":"minecraft:diamond_pickaxe"},
+    {"item":"minecraft:blast_furnace"},
+    {"item":"minecraft:redstone_block"}
+  ],
+  "result": {"item":"tunnelcart:tunnel_cart"}
+}

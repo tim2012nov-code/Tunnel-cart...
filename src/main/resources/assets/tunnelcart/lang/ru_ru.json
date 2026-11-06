@@ -1,0 +1,8 @@
+{
+  "item.tunnelcart.tunnel_cart": "Вагонетка-проходчик",
+  "entity.tunnelcart.tunnel_cart": "Вагонетка-проходчик",
+  "tunnelcart.need_rail": "Вагонетка-проходчик: кончились энергорельсы",
+  "tunnelcart.need_cobbled": "Вагонетка-проходчик: кончился колотый глубинный сланец",
+  "tunnelcart.blocked": "Вагонетка-проходчик: впереди неразрушимый блок",
+  "tunnelcart.chunk": "Вагонетка-проходчик: ждёт загрузки чанков"
+}

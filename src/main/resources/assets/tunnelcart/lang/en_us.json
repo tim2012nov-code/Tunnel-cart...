@@ -1,0 +1,8 @@
+{
+  "item.tunnelcart.tunnel_cart": "Tunnel Cart",
+  "entity.tunnelcart.tunnel_cart": "Tunnel Cart",
+  "tunnelcart.need_rail": "Tunnel Cart: out of powered rails",
+  "tunnelcart.need_cobbled": "Tunnel Cart: out of cobbled deepslate",
+  "tunnelcart.blocked": "Tunnel Cart: unbreakable block ahead",
+  "tunnelcart.chunk": "Tunnel Cart: waiting for chunks to load"
+}
